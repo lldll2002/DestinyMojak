@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Unreal\\DestinyMojak\\Destiny\\Source\\Destiny\\Destiny.Build.cs",
-		"C:\\Unreal\\DestinyMojak\\Destiny\\Source\\Destiny.Target.cs",
-		"C:\\Unreal\\DestinyMojak\\Destiny\\Source\\DestinyEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.1"
-}
